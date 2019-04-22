@@ -13,12 +13,30 @@ namespace Palindromes.Tests
         Palindromes testPalindrome = new Palindromes();
         Assert.AreEqual(true, testPalindrome.IsPalindrome("A"));
     }
-    [TestMethod]
 
-    public void IsPalindrome_WordIsPalindrome_True()
+    [TestMethod]
+    public void IsPalindrome_WordIsPalindromeEvenNumberOfChars_True()
     {
         Palindromes testPalindrome = new Palindromes();
         Assert.AreEqual(true, testPalindrome.IsPalindrome("noon"));
+    }
+    [TestMethod]
+    public void IsPalindrome_WordIsPalindromeOddNumberOfChars_True()
+    {
+        Palindromes testPalindrome = new Palindromes();
+        Assert.AreEqual(true, testPalindrome.IsPalindrome("madam"));
+    }
+    [TestMethod]
+    public void IsPalindrome_NumberIsPalindrome_True()
+    {
+        Palindromes testPalindrome = new Palindromes();
+        Assert.AreEqual(true, testPalindrome.IsPalindrome("4554"));
+    }
+    [TestMethod]
+    public void IsPalindrome_WordIsPalindrome_False()
+    {
+        Palindromes testPalindrome = new Palindromes();
+        Assert.AreEqual(false, testPalindrome.IsPalindrome("jump"));
     }
   }
 }

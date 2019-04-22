@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.deps.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.Tests.pdb
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/bin/Debug/netcoreapp2.2/Palindromes.pdb
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.dll
+/Users/Guest/Desktop/Palindromes.Solution/Palindromes.Tests/obj/Debug/netcoreapp2.2/Palindromes.Tests.pdb

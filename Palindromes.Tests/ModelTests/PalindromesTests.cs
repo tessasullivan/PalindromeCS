@@ -7,11 +7,18 @@ namespace Palindromes.Tests
   public class PalindromesTest
   {
     [TestMethod]
-    public void UserInputsAChar_CharInputtedReturned_True()
+    public void IsPalindrome_SingleChar_True()
     {
     // any necessary logic to prep for test; instantiating new classes, etc.
-    Palindromes testPalindrome = new Palindromes();
-    Assert.AreEqual(true, testPalindrome.IsPalindrome("A"));
+        Palindromes testPalindrome = new Palindromes();
+        Assert.AreEqual(true, testPalindrome.IsPalindrome("A"));
+    }
+    [TestMethod]
+
+    public void IsPalindrome_WordIsPalindrome_True()
+    {
+        Palindromes testPalindrome = new Palindromes();
+        Assert.AreEqual(true, testPalindrome.IsPalindrome("noon"));
     }
   }
 }

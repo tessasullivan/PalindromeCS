@@ -15,7 +15,7 @@ namespace Palindromes.Models
         {
             return _phrase;
         }
-        public void SetPhase (string phrase)
+        public void SetPhrase (string phrase)
         {
             _phrase = phrase;
         }
